@@ -1,6 +1,6 @@
 # Sentiment Analysis Neural Network Tutorial
 
-This tutorial guides you through the process of designing and training a neural network for sentiment analysis using Python and TensorFlow.
+This tutorial guides you through the process of designing and training a neural network for sentiment analysis using Python and TensorFlow. For a detailed explanation of this tutorial, see the post: [Designing and Training a Neural Network in Python](https://assistivecomputing.ai/posts/designing-and-training-neural-network-python/)
 
 ## Prerequisites
 
@@ -44,5 +44,5 @@ Feel free to experiment with the code:
 
 ## Additional Resources
 
-For a detailed explanation of this tutorial, see the post: [Designing and Training a Neural Network in Python](https://assistivecomputing.ai/post/designing-and-training-neural-network-python/)
+For a detailed explanation of this tutorial, see the post: [Designing and Training a Neural Network in Python](https://assistivecomputing.ai/posts/designing-and-training-neural-network-python/)
 
